@@ -41,7 +41,7 @@ movie-search-app/
 
 ## 🌍 Live Demo
 You can view the project online here:  
-👉 [Movie Finder App - Live](https://vijayatejaswinik.github.io/movie_finder_app/)  
+👉 [Movie Finder App - Live]([https://vijayatejaswinik.github.io/movie_finder_app/](https://vijayatejaswinik.github.io/movie_finder_app/))  
 
 ---
 
